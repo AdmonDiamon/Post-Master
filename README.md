@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Post Master - a Post Office Simulator
 
 ![Post Office Simulator Image](src/main/resources/img/post-master.png)
@@ -40,4 +41,6 @@ Offers a straightforward and intuitive interface for interacting with the postal
 ---
 
 _Note: This document provides an overview of the Post Office Simulator. For detailed instructions and more information, please refer to the source code documentation._
+=======
+>>>>>>> 98d9e6aa81de7b2ca947216ffefa74a10b8da9ca
 # Post-Master
